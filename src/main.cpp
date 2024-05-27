@@ -7,7 +7,7 @@
 
 int main() 
 {
-    //DecryptDocument();
-    GetMissingEnginePart();
+    DecryptDocument();
+    //GetMissingEnginePart();
     return 0;
 }
